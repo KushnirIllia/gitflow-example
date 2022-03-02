@@ -1,0 +1,4 @@
+GitFlow
+  1. Створити репозіторій на GitHub і склонувати його на ноут.
+  2. Створити нову гілку для розробки develop від основної гілки main/master і відправити її на GitHub [git push origin
+  develop]
